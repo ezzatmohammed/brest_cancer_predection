@@ -1,4 +1,4 @@
-# machine_learning3
+# brest cancer predection
 in this file:
 1-logistic regression
 2-confusion matrix
